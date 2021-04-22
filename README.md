@@ -50,10 +50,10 @@ npm start
 manuelybarra2006@yahoo.com
 
 ## GitHub
-github.com/mybarra06
+https://github.com/mybarra06/Budgeter
 
 ## Link 
-
+https://budgettrackkkeeeerrrr.herokuapp.com/
 
 ## Usage 
 It allows you to keep track of your budget while online or offline.
